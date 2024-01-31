@@ -1,5 +1,5 @@
 # Module 06 Mini-Project: Library of Congress Search Tool
-
+I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
 In this activity, you will work with a group to build an application that searches and displays results from the Library of Congress API.
 
 ## Instructions
